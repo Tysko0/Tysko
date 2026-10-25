@@ -27,7 +27,9 @@
 * **Je suis particulièrement specialisée dans le web en fullstack** 
 
 <div align="right">
+  
   ![Tysko GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tysko0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+  
 </div>
 
 ---
