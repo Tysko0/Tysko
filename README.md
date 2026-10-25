@@ -26,6 +26,8 @@
 
 * **Je suis particulièrement specialisée dans le web en fullstack** 
 
+---
+
 <p align="center">
   <i>La théorie t’apprend, la pratique te forme.</i>
 </p>
