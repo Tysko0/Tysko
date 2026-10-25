@@ -13,7 +13,6 @@
 * Je suis basée en **France**.
 * Passionné par le codage et les jeux vidéo mais aussi le hardware.
 * Encore en étude pour obtenir un bac pro en électricitée
-* *La théorie t’apprend, la pratique te forme.*
 
 ### Compétence & Technologies
 
@@ -26,3 +25,7 @@
 </p>
 
 * **Je suis particulièrement specialisée dans le web en fullstack** 
+
+<p align="center">
+  <i>La théorie t’apprend, la pratique te forme.</i>
+</p>
