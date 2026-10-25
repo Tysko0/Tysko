@@ -15,4 +15,12 @@
 * Encore en étude pour obtenir un bac pro en électricitée
 * *La théorie t’apprend, la pratique te forme.*
 
+### Compétence & Technologies
 
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua Fivem">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  </p>
+</div>
